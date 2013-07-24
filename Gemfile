@@ -7,6 +7,10 @@ gem 'rails', '3.2.13'
 
 gem 'pg'
 gem 'dotenv-rails'
+gem 'pry-rails'
+gem 'better_errors'
+gem 'compass-rails' # you need this or you get an err
+gem 'zurb-foundation', '~> 4.0.0'
 
 
 # Gems used only for assets and not required
